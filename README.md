@@ -28,4 +28,7 @@ Aplikasi ini dibuat untuk membantu sekolah dalam:
 ## ⚙️ Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/presensi-sholat.git
+   git clone https://github.com/DindaKhoi/Presensi-Dzuhur-App.git
+   extract file lalu pindahkan folder ke Htdocs difolder Xampp
+   buka browser dan ketikan localhost/htdocs/dashboard.php
+   
