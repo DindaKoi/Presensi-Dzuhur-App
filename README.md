@@ -9,9 +9,8 @@ Aplikasi ini dibuat untuk membantu sekolah dalam:
 
 ## 🛠 Teknologi yang Digunakan
 - PHP (Native)
-- MySQL / MariaDB
+- MySQL
 - HTML, CSS, dan JavaScript
-- Bootstrap (opsional, jika digunakan)
 
 
 ## 👤 Role Pengguna
