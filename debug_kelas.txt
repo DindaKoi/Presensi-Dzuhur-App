@@ -1,0 +1,309 @@
+Data kelas di dashboard siswa: Array
+(
+    [0] => Array
+        (
+            [id_kelas] => 5
+            [0] => 5
+            [nama_kelas] => X-PERHOTELAN1
+            [1] => X-PERHOTELAN1
+        )
+
+    [1] => Array
+        (
+            [id_kelas] => 6
+            [0] => 6
+            [nama_kelas] => X-PERHOTELAN2
+            [1] => X-PERHOTELAN2
+        )
+
+    [2] => Array
+        (
+            [id_kelas] => 7
+            [0] => 7
+            [nama_kelas] => X-PERHOTELAN3
+            [1] => X-PERHOTELAN3
+        )
+
+    [3] => Array
+        (
+            [id_kelas] => 1
+            [0] => 1
+            [nama_kelas] => X-RPL1
+            [1] => X-RPL1
+        )
+
+    [4] => Array
+        (
+            [id_kelas] => 2
+            [0] => 2
+            [nama_kelas] => X-RPL2
+            [1] => X-RPL2
+        )
+
+    [5] => Array
+        (
+            [id_kelas] => 11
+            [0] => 11
+            [nama_kelas] => X-TATABOGA1
+            [1] => X-TATABOGA1
+        )
+
+    [6] => Array
+        (
+            [id_kelas] => 12
+            [0] => 12
+            [nama_kelas] => X-TATABOGA2
+            [1] => X-TATABOGA2
+        )
+
+    [7] => Array
+        (
+            [id_kelas] => 13
+            [0] => 13
+            [nama_kelas] => X-TATABOGA3
+            [1] => X-TATABOGA3
+        )
+
+    [8] => Array
+        (
+            [id_kelas] => 17
+            [0] => 17
+            [nama_kelas] => X-TATABUSANA1
+            [1] => X-TATABUSANA1
+        )
+
+    [9] => Array
+        (
+            [id_kelas] => 18
+            [0] => 18
+            [nama_kelas] => X-TATABUSANA2
+            [1] => X-TATABUSANA2
+        )
+
+    [10] => Array
+        (
+            [id_kelas] => 19
+            [0] => 19
+            [nama_kelas] => X-TATABUSANA3
+            [1] => X-TATABUSANA3
+        )
+
+    [11] => Array
+        (
+            [id_kelas] => 22
+            [0] => 22
+            [nama_kelas] => X-ULW
+            [1] => X-ULW
+        )
+
+    [12] => Array
+        (
+            [id_kelas] => 8
+            [0] => 8
+            [nama_kelas] => XI-PERHOTELAN1
+            [1] => XI-PERHOTELAN1
+        )
+
+    [13] => Array
+        (
+            [id_kelas] => 9
+            [0] => 9
+            [nama_kelas] => XI-PERHOTELAN2
+            [1] => XI-PERHOTELAN2
+        )
+
+    [14] => Array
+        (
+            [id_kelas] => 10
+            [0] => 10
+            [nama_kelas] => XI-PERHOTELAN3
+            [1] => XI-PERHOTELAN3
+        )
+
+    [15] => Array
+        (
+            [id_kelas] => 3
+            [0] => 3
+            [nama_kelas] => XI-RPL1
+            [1] => XI-RPL1
+        )
+
+    [16] => Array
+        (
+            [id_kelas] => 4
+            [0] => 4
+            [nama_kelas] => XI-RPL2
+            [1] => XI-RPL2
+        )
+
+    [17] => Array
+        (
+            [id_kelas] => 14
+            [0] => 14
+            [nama_kelas] => XI-TATABOGA1
+            [1] => XI-TATABOGA1
+        )
+
+    [18] => Array
+        (
+            [id_kelas] => 15
+            [0] => 15
+            [nama_kelas] => XI-TATABOGA2
+            [1] => XI-TATABOGA2
+        )
+
+    [19] => Array
+        (
+            [id_kelas] => 16
+            [0] => 16
+            [nama_kelas] => XI-TATABOGA3
+            [1] => XI-TATABOGA3
+        )
+
+    [20] => Array
+        (
+            [id_kelas] => 20
+            [0] => 20
+            [nama_kelas] => XI-TATABUSANA1
+            [1] => XI-TATABUSANA1
+        )
+
+    [21] => Array
+        (
+            [id_kelas] => 21
+            [0] => 21
+            [nama_kelas] => XI-TATABUSANA3
+            [1] => XI-TATABUSANA3
+        )
+
+    [22] => Array
+        (
+            [id_kelas] => 23
+            [0] => 23
+            [nama_kelas] => XI-ULW
+            [1] => XI-ULW
+        )
+
+)
+
+id_kelas yang dipilih: 1
+Received POST: Array
+(
+    [kelas] => X-PERHOTELAN1
+)
+
+User ID: 4, id_kelas: 5, Kelas: X-PERHOTELAN1, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => X-PERHOTELAN1
+            [gender] => 
+            [id_kelas] => 5
+        )
+
+    [user_id] => 4
+    [username] => admin
+    [nama] => fira
+    [id_kelas] => 17
+)
+
+Kelas di-reset untuk User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [gender] => 
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+Received POST: Array
+(
+    [kelas] => X-RPL1
+)
+
+User ID: 11, id_kelas: 1, Kelas: X-RPL1, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [gender] => 
+            [id_kelas] => 1
+            [kelas] => X-RPL1
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+Kelas di-reset untuk User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [gender] => 
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+Received POST: Array
+(
+    [nama_kelas] => X-RPL3
+)
+
+Error: Nama kelas tidak boleh kosong.

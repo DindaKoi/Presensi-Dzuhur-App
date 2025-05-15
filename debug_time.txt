@@ -1,0 +1,136 @@
+Recorded Time: 2025-05-15 16:16:49 (Timezone: Asia/Jakarta)
+Recorded Time: 2025-05-15 16:17:38 (Timezone: Asia/Jakarta)
+Recorded Time: 2025-05-15 16:33:41 (Timezone: Asia/Jakarta)
+Recorded Time: 2025-05-15 16:38:42 (Timezone: Asia/Jakarta), id_kelas: 1
+Recorded Time: 2025-05-15 17:00:19 (Timezone: Asia/Jakarta), id_kelas: 1
+Recorded Time: 2025-05-15 18:31:56 (Timezone: Asia/Jakarta), id_kelas: 5
+Recorded Time: 2025-05-15 19:02:05 (Timezone: Asia/Jakarta), id_kelas: 1, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => 
+            [gender] => 
+        )
+
+    [user_id] => 8
+    [username] => admin
+    [nama] => lilis
+    [id_kelas] => 1
+)
+
+Recorded Time: 2025-05-15 19:02:58 (Timezone: Asia/Jakarta), id_kelas: 1, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => 
+            [gender] => 
+        )
+
+    [user_id] => 1
+    [username] => admin
+    [nama] => indah
+    [id_kelas] => 1
+)
+
+Recorded Time: 2025-05-15 19:11:28 (Timezone: Asia/Jakarta), id_kelas: 1, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => 
+            [gender] => 
+        )
+
+    [user_id] => 5
+    [username] => admin
+    [nama] => wiwi
+    [id_kelas] => 1
+)
+
+Recorded Time: 2025-05-15 19:21:09 (Timezone: Asia/Jakarta), id_kelas: 5, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => 
+            [gender] => 
+        )
+
+    [user_id] => 5
+    [username] => admin
+    [nama] => wiwi
+    [id_kelas] => 5
+)
+
+Recorded Time: 2025-05-15 19:22:47 (Timezone: Asia/Jakarta), id_kelas: 5, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => 
+            [gender] => 
+        )
+
+    [user_id] => 4
+    [username] => admin
+    [nama] => fira
+    [id_kelas] => 5
+)
+

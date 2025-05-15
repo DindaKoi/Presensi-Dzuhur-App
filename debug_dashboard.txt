@@ -1,0 +1,262 @@
+User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => X-PERHOTELAN1
+            [gender] => 
+            [id_kelas] => 5
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => X-PERHOTELAN1
+            [gender] => 
+            [id_kelas] => 5
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => X-PERHOTELAN1
+            [gender] => 
+            [id_kelas] => 5
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [gender] => 
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [gender] => 
+            [id_kelas] => 1
+            [kelas] => X-RPL1
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [gender] => 
+            [id_kelas] => 1
+            [kelas] => X-RPL1
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [gender] => 
+            [id_kelas] => 1
+            [kelas] => X-RPL1
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [gender] => 
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [gender] => 
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+
+User ID: 11, Session: Array
+(
+    [siswa] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [kelas] => XI-RPL2
+            [gender] => Laki-laki
+        )
+
+    [role] => siswa
+    [last_activity] => 1747291944
+    [user] => Array
+        (
+            [id] => 8
+            [nama] => wiwi
+            [gender] => 
+        )
+
+    [user_id] => 11
+    [username] => admin
+    [nama] => cahyo
+    [id_kelas] => 5
+)
+

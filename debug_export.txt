@@ -1,0 +1,30 @@
+Query executed for id_kelas: 1, Result: Array
+(
+    [0] => Array
+        (
+            [tanggal] => 2025-05-15
+            [waktu_absen] => 19:44:21
+            [gender] => Laki-laki
+            [status] => hadir
+            [materi] => 
+            [bukti_foto] => Uploads/6825e1a51be90_logo.png.png
+            [nama] => cahyo
+        )
+
+)
+
+Query executed for id_kelas: 5, Result: Array
+(
+    [0] => Array
+        (
+            [tanggal] => 2025-05-15
+            [waktu_absen] => 19:38:14
+            [gender] => Laki-laki
+            [status] => hadir
+            [materi] => 
+            [bukti_foto] => Uploads/6825e03681718_logo.png.png
+            [nama] => fira
+        )
+
+)
+
