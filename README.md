@@ -21,8 +21,7 @@ Aplikasi ini dibuat untuk membantu sekolah dalam:
 ## 📦 Fitur Utama
 - Login sesuai role (admin, guru)
 - Form input presensi siswa
-- Laporan harian, mingguan, dan bulanan
-- Responsive UI
+- Laporan harian, mingguan, dan bulanan dalam bentuk spreadsheet
 
 ## ⚙️ Cara Menjalankan
 1. Clone repository ini:
