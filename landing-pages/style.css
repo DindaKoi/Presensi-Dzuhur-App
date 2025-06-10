@@ -1,0 +1,11 @@
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .headline {
+    font-family: 'Bebas Neue', cursive;
+  }
+
+  html {
+  scroll-behavior: smooth;
+}

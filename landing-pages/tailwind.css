@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Animasi kustom */
+@layer utilities {
+  .animate-fade-down {
+    @apply opacity-0 translate-y-[-10px];
+    animation: fadeDown 0.7s ease-out forwards;
+  }
+  .animate-fade-left {
+    @apply opacity-0 -translate-x-10;
+    animation: fadeLeft 0.8s ease-out forwards;
+  }
+  .animate-fade-up {
+    @apply opacity-0 translate-y-10;
+    animation: fadeUp 0.8s ease-out forwards;
+  }
+
+  @keyframes fadeDown {
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes fadeLeft {
+    to { opacity: 1; transform: translateX(0); }
+  }
+  @keyframes fadeUp {
+    to { opacity: 1; transform: translateY(0); }
+  }
+}

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Presensi Sholat Dzuhur</title>
+  <link href="style.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes fadeInLeft {
+      from {
+        opacity: 0;
+        transform: translateX(-50px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    @keyframes fadeInRight {
+      from {
+        opacity: 0;
+        transform: translateX(50px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    .animate-fade-down {
+      animation: fadeInUp 1s ease-out forwards;
+    }
+
+    .animate-fade-left {
+      animation: fadeInLeft 1s ease-out forwards;
+    }
+
+    .animate-fade-right {
+      animation: fadeInRight 1s ease-out forwards;
+    }
+  </style>
+
+</head>
+
+<body class="bg-white font-sans text-gray-800">
+  <!-- Navbar -->
+  <header
+    class="fixed top-0 left-0 w-full z-50 bg-white py-4 px-6 flex justify-between items-center animate-fade-down shadow-md">
+    <img src="assets/ADFI.png" alt="Logo" class="h-8">
+    <nav class="flex gap-8 text-sm font-medium">
+      <a href="#" class="hover:text-yellow-600">Beranda</a>
+      <a href="#scanbarcode" class="hover:text-yellow-500">Tutorial</a>
+      <a href="#us" class="hover:text-yellow-500">Tentang Kami</a>
+    </nav>
+    <a href="../index.php"
+      class="border border-yellow-400 px-4 py-2 rounded-full text-yellow-600 hover:bg-yellow-400 hover:text-white transition">
+      Masuk/Daftar
+    </a>
+  </header>
+
+
+  <!-- Hero Section -->
+  <section class="pt-32 px-6 md:px-20 flex flex-col md:flex-row items-center justify-between gap-10 font-[Poppins]">
+    <div class="space-y-4 max-w-xl animate-fade-left">
+
+      <h1 class="font-['Bebas_Neue'] text-[104px] leading-[1]">
+        PRESENSI
+      </h1>
+      <h2 class="font-['Bebas_Neue'] text-[64px] leading-none text-gray-700 tracking-wider">
+        SHOLAT DZUHUR
+      </h2>
+
+      <p class="text-[13px] text-gray-700 leading-relaxed text-justify font-[Poppins]">
+        Monitoring kehadiran anda dalam Sholat Dzuhur berjamaah di sekolah. Isi dan dapatkan rekapitulasi kehadiran anda
+        dengan mudah.
+      </p>
+
+      <a href="#steps" class="inline-block px-6 py-2 rounded-full text-black font-semibold transition text-[14px]"
+        style="background-color: #F3CB87;">
+        JELAJAHI 🔎
+      </a>
+
+
+    </div>
+
+    <img src="assets/PSD2 1.png" alt="Phone" width="600" height="429" class="animate-fade-right rounded-xl">
+  </section>
+
+  <!-- Steps -->
+  <section id="steps" class="bg-gradient-to-b from-white to-blue-300 mt-20 py-10 text-center">
+    <div class="flex justify-center gap-[173px] animate-fade-up delay-200">
+      <img src="assets/login.png" class="w-20 h-20" alt="Icon 1">
+      <img src="assets/scan.png" class="w-20 h-20" alt="Icon 2">
+      <img src="assets/rekap.png" class="w-20 h-20" alt="Icon 3">
+    </div>
+  </section>
+
+  <!-- Scan Section -->
+  <section id="scanbarcode" class="px-6 py-20">
+    <h2
+      class="text-6xl font-bold bg-gradient-to-r from-blue-300 via-purple-600 to-blue-300 bg-clip-text text-transparent mb-10 text-center">
+      FORMULIR KEHADIRAN
+    </h2>
+    <div class="flex flex-col md:flex-row justify-center gap-20 items-center">
+      <img src="assets/form.png" alt="Scan" class="w-80 h-80 mx-auto">
+      <ol class="space-y-6 text-sm max-w-md mx-auto">
+        <li>
+          <div class="p-4 rounded-xl bg-gradient-to-r from-blue-100 to-transparent">
+            <strong>1. MASUK/DAFTAR</strong><br>
+            Masuk/Daftarkan akun anda dan isi sesuai dengan identitas asli anda disekolah.
+          </div>
+        </li>
+        <li>
+          <div class="p-4 rounded-xl bg-gradient-to-r from-blue-100 to-transparent">
+            <strong>2. PERGI KE DASHBOARD</strong><br>
+            Isilah form kehadiran anda, pastikan semua terisi dan dikirim. Isilah dengan kelengkapan dan keaslian data
+          </div>
+        </li>
+        <li>
+          <div class="p-4 rounded-xl bg-gradient-to-r from-blue-100 to-transparent">
+            <strong>3. REKAPITULASI</strong><br>
+            Terima rekapitulasi kehadiran anda perbulan yang akan dikirimkan oleh petugas.
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+
+  <!-- CTA -->
+  <section class="text-center py-20 bg-white max-w-[1440px] mx-auto mb-24">
+    <h2
+      class="headline text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
+      DAFTARKAN DIRI ANDA SEKARANG
+    </h2>
+    <p class="text-gray-800 text-base md:text-lg mb-6 font-normal leading-relaxed">
+      kehadiran anda adalah kewajiban seorang muslim <br>
+      Jadikan momen lebih tertatur dengan <em>ADFI</em>.
+    </p>
+    <a href="../index.php"
+      class="bg-gradient-to-r from-yellow-300 to-orange-300 hover:from-yellow-400 hover:to-orange-400 px-8 py-3 rounded-full text-black font-semibold transition">
+      DAFTAR SEKARANG
+    </a>
+  </section>
+
+
+  <!-- Footer -->
+  <footer id="us"
+    class="bg-blue-200 w-full px-10 pt-20 pb-10 flex flex-col md:flex-row justify-between items-center text-sm text-gray-800 font-normal max-w-[1920px] mx-auto">
+    <img src="assets/ADFI.png" class="" alt="logo" width="150">
+
+    <div class="flex gap-4 items-center">
+      <span class="font-semibold">Programming Language:</span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="h-6">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" class="h-6">
+    </div>
+
+    <div class="text-right font-medium leading-relaxed">
+      <strong class="font-bold">DIRECT BY TEAM 4</strong><br>
+      Arya Satrya Aswani rai<br>
+      Dinda Khoirunnisa<br>
+      Farrel Goesty Pratama<br>
+      Indah Indriani
+    </div>
+  </footer>
+
+
+  <script src="script.js"></script>
+</body>
+
+</html>
